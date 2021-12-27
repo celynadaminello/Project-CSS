@@ -1,1 +1,1 @@
-Página Web criada com base no modelo proposto pelo curso Web Design, do Daniel Tapias Morales na Udemy. O Objetivo foi treinar meus conhecimentos de HTML e CSS.
+Web page created based on the model proposed by Daniel Tapias Morales' Web Design course at Udemy. The goal was to train my knowledge of HTML and CSS.
